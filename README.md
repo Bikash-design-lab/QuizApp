@@ -42,8 +42,8 @@ Welcome to **QuizApp**, a dynamic quiz application built with **React** and **Fi
 ![Leaderboard](https://github.com/user-attachments/assets/20a6416e-4f83-457d-b713-d39edf50e41e)
 
 ## Tech Stack 🔧
-- **Frontend**: React, React Router
-- **Backend**: Firebase (for authentication and data storage)
+- **Frontend**: React, React Router, Tailwind CSS
+- **Backend**: Firebase
 - **API**: Open Trivia API (for quiz questions)
 - **Authentication**: LocalStorage for storing user credentials
 
